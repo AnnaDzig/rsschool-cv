@@ -53,6 +53,7 @@ modal.addEventListener("click", function (e) {
 ------------ | -------------
 HTML         | Intermediate
 CSS          | Intermediate
+GIT          | Intermediate
 Javascript   | Beginner
 Figma        | Intermediate
 English      | Advanced
