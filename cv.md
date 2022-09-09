@@ -47,7 +47,7 @@ modal.addEventListener("click", function (e) {
 *  [The Complete 2021 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp)
 
 [THE ROLLING SCOPES SCHOOL]
-* [JS/FE PRE-SCHOOL 2022 (JAVASCRIPT] (https://app.rs.school/certificate/8i2vpb1a)
+* [JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)] (https://app.rs.school/certificate/8i2vpb1a)
 
 **Skills**   | **Level**
 ------------ | -------------
