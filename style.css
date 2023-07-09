@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&family=Satisfy&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f4f4f4;
+  padding: 35px;
+}
+.title-section {
+  display: flex;
+  flex-direction: column;
+  padding-left: 5px;
+}
+.title {
+  font-size: 2rem;
+  text-transform: uppercase;
+  font-weight: 100;
+  letter-spacing: 0.9rem;
+  font-size: 3.5rem;
+}
+.bold {
+  font-weight: 700;
+}
+.title-description {
+  font-weight: 400;
+  font-size: 2.2rem;
+  text-transform: uppercase;
+  letter-spacing: 1.5rem;
+}
+.image {
+  height: 290px;
+  width: 290px;
+  border-radius: 50%;
+}
+.main-container {
+  display: flex;
+  flex-direction: column;
+}
+.aside-section {
+  width: 30%;
+}
+.contacts {
+}
+.contacts-list {
+}
+.contacts-item {
+}
+.icon {
+  width: 40px;
+  height: 40px;
+}
+.skills {
+}
+.text-title {
+}
+.skills-list {
+}
+.skils-item {
+}
+.main-block {
+  display: flex;
+  flex-direction: column;
+}
+.about {
+}
+.about-description {
+}
+.education {
+}
+.education-list {
+}
+.education-item {
+}
+.work-experience {
+}
+.experience-list {
+}
+.experience-item {
+}
+.date {
+}
+.job-title {
+}
+.footer-container {
+}
+.footer-list {
+}
+.footer-item {
+}
